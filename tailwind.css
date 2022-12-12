@@ -1,0 +1,96 @@
+
+.section{
+    height:100vh;
+}
+.text-40{
+    font-size:40px;
+}
+
+.w-970px{
+    width:970px;
+}
+.logo{
+    font-size:18px;
+    line-height:7;
+    font-family:sans-serif;
+}
+.banner{
+    font-size:50px
+    font-family:'hind',sans-serif;
+}
+.hind{
+    font-family:'hind',sans-serif;
+}
+.muli{
+    font-family:'Muli Reguler';
+}
+.h-94px{
+    height:94vh;
+}
+.h-85{
+    height:80vh;
+}
+.text-decorated{
+    font-family: 'Playfair Display', serif;
+}
+.sans-serif{
+    font-family:sans-serif;
+}
+.w-300{
+    width:350px;
+}
+.black-shadow{
+    box-shadow:0px 4px 14.88px 1.12px rgba(138, 148, 159, 0.4);
+}
+.blue-shadow{
+    box-shadow: 0px 4px 14.88px 1.12px rgba(27, 139, 249, 0.4);
+}
+
+input{
+    background-color: rgba(255, 255, 255, 0.3);
+    padding: 0 18px
+}
+.clr-white::-webkit-input-placeholder{
+    color:#fff;
+}
+
+[type="text"]{
+    width:290px;
+}
+.black-white{
+    color: #8a949f;
+}
+
+.m-left{
+    margin-left:80px;
+    margin-top:-55px
+}
+.ml-{
+    margin-left:80px;
+}
+.left-custom{
+    margin-left:-80px;
+}
+.left-custom2{
+    margin-left:-88px;
+}
+.left-custom3{
+    margin-left:-96px;
+}
+.custom-btn{
+    background-color:#1b8bf9 ;
+    font-family: 'hind',sans-serif;
+    transform: translate(315px); 
+}
+.h-90{
+    height:90vh;
+}
+
+
+
+
+@font-face{
+    font-family: "Muli Reguler";
+    src: url('muli.regular (1).ttf');
+}
+
