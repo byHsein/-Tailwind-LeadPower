@@ -5,6 +5,12 @@
 .text-40{
     font-size:40px;
 }
+.mt-custom{
+    margin-top:-40px;
+}
+.h-120{
+    height:120vh;
+}
 
 .w-970px{
     width:970px;
