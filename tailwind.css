@@ -2,6 +2,13 @@
 .section{
     height:100vh;
 }
+body{
+    background-size:100%;
+    width:100%;
+}
+.container{
+    width:970px;
+}
 .text-40{
     font-size:40px;
 }
@@ -77,6 +84,10 @@ input{
 .left-custom{
     margin-left:-80px;
 }
+.w-750{
+    width:750px;
+}
+
 .left-custom2{
     margin-left:-88px;
 }
@@ -91,9 +102,16 @@ input{
 .h-90{
     height:90vh;
 }
+body{
+    width:100%;
+}
+
+
+
 
 @font-face{
     font-family: "Muli Reguler";
     src: url('muli.regular (1).ttf');
 }
+
 
